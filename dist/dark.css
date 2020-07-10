@@ -379,6 +379,9 @@ code {
 .rc-old .message {
   margin-top: 40px;
 }
+.rc-old .message:hover {
+  background-color: #292b2f !important;
+}
 .rc-old .message .message-actions {
   bottom: 4px !important;
   top: auto !important;
